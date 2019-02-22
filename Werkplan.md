@@ -22,6 +22,9 @@ De bedoeling is om een Interface te creëren dat met de API communiceert.
 Hierdoor kan informatie worden opgehaald, gewijzigd of worden verwijderd.
 Ik wil dit in een tijdsperiode van 10 weken afgerond hebben met elke 2 weken een sprint (tussen evaluatie).</p>
 
+### 2.2 Functioneel Ontwerp  
+
+
 
 
 
