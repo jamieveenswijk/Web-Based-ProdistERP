@@ -15,16 +15,12 @@
 
 ## (2) Project Omschrijving  
 
-### 2.1  Inleiding 
+### 2.1  Inleiding  
 
-<p> Mijn plan is om een Web Interface te bouwen die praat met de huidige API van Prodist. 
-Om dit plan tot leven te brengen heb ik basis kennis van C# en Visual Studio nodig om de Interface in te creëren. </p>
-
-##### Informatie
-
-<p> De bedoeling is om een Interface te creëren dat met de API communiceert. 
-Hierdoor kan informatie worden opgehaald, gewijzigd of worden verwijderd. 
-Ik wil dit in een tijdsperiode van 10 weken afgerond hebben met elke 2 weken een sprint (tussen evaluatie). </p>
+<p>Er moet een Web Interface ontwikkeld worden die met de huidige API van Prodist communiceert.</p>
+<p>De bedoeling is om een Interface te creëren dat met de API communiceert.</p>
+<p>Hierdoor kan informatie worden opgehaald, gewijzigd of worden verwijderd.</p> 
+<p>Ik wil dit in een tijdsperiode van 10 weken afgerond hebben met elke 2 weken een sprint (tussen evaluatie).</p>
 
 
 
