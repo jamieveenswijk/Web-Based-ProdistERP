@@ -17,10 +17,10 @@
 
 ### 2.1  Inleiding  
 
-<p>Er moet een Web Interface ontwikkeld worden die met de huidige API van Prodist communiceert.</p>
-<p>De bedoeling is om een Interface te creëren dat met de API communiceert.</p>
-<p>Hierdoor kan informatie worden opgehaald, gewijzigd of worden verwijderd.</p> 
-<p>Ik wil dit in een tijdsperiode van 10 weken afgerond hebben met elke 2 weken een sprint (tussen evaluatie).</p>
+<p>Er moet een Web Interface ontwikkeld worden die met de huidige API van Prodist communiceert.
+De bedoeling is om een Interface te creëren dat met de API communiceert.
+Hierdoor kan informatie worden opgehaald, gewijzigd of worden verwijderd.
+Ik wil dit in een tijdsperiode van 10 weken afgerond hebben met elke 2 weken een sprint (tussen evaluatie).</p>
 
 
 
