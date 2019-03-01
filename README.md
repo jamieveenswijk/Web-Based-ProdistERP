@@ -8,6 +8,7 @@ Project voor een Web-Based versie van de huidige ProdistERP
 ### Helpful Documentation
 
 * [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api)
+* [ASP.NET Core Beginner](https://mva.microsoft.com/en-US/training-courses/aspnet-core-beginner-18153?l=5j9dg46dE_811787171)
 
 ## Requirements
 
