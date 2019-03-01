@@ -50,6 +50,14 @@
 <p> Het doel is om de huidige ERP software volledig webbased te lanceren. Bedrijven kunnen dan vanuit elk browser de Webbased ProdistERP draaien, ongeacht het besturingsysteem.
     Vanwege het zogenaamde SaaS-oplossing is de software onbeperkt schaalbaar en realtime up te daten terwijl de gebruiker gewoon kan doorwerken. Niet alleen is het zeer handig voor beide partijen maar ook veilig doormiddel van een token authenticatie die wordt opgehaald bij het inloggen. </p>
     
+
+#### Begrippen
+
+* [SaaS](https://nl.wikipedia.org/wiki/Software_as_a_Service)
+* [Spotify Model](https://agilescrumgroup.nl/spotify-model/)
+* [Enterprise Resource Planning (ERP)](https://nl.wikipedia.org/wiki/Enterprise_resource_planning)
+
+
     
 ##### 2.1.3 Doelstellingen
 
