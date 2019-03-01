@@ -22,4 +22,4 @@ Project voor een Web-Based versie van de huidige ProdistERP
 * Download latest [.NET Core Framework](https://dotnet.microsoft.com/download)
 * Download latest [Visual Studio 2017](https://visualstudio.microsoft.com/downloads/)
 
-### [Werkplan](https://github.com/jamieveenswijk/Web-Based-ProdistERP/blob/master/Werkplan.md)
+### [Werkplan](https://github.com/jamieveenswijk/Web-Based-ProdistERP/blob/master/Werkplan.md)  
