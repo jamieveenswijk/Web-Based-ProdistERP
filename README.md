@@ -3,6 +3,12 @@
 
 Project voor een Web-Based versie van de huidige ProdistERP
 
+## Getting Started  
+
+### Helpful Documentation
+
+* [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api)
+
 ## Requirements
 
 * Laatste versie van Visual Studio 2017
