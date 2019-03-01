@@ -48,7 +48,7 @@
 #### 2.1.2 Doel  
 
 <p> Het doel is om de huidige ERP software volledig webbased te lanceren. Bedrijven kunnen dan vanuit elk browser de Webbased ProdistERP draaien, ongeacht het besturingsysteem.
-    Vanwege het zogenaamde [SaaS](https://nl.wikipedia.org/wiki/Software_as_a_Service "SaaS") (Software as a Service)-oplossing is de software onbeperkt schaalbaar en realtime up te daten terwijl de gebruiker gewoon kan doorwerken. Niet alleen is het zeer handig voor beide partijen maar ook veilig doormiddel van een token authenticatie die wordt opgehaald bij het inloggen. </p>
+    Vanwege het zogenaamde [SaaS](https://nl.wikipedia.org/wiki/Software_as_a_Service "SaaS")-oplossing is de software onbeperkt schaalbaar en realtime up te daten terwijl de gebruiker gewoon kan doorwerken. Niet alleen is het zeer handig voor beide partijen maar ook veilig doormiddel van een token authenticatie die wordt opgehaald bij het inloggen. </p>
 
 ##### 2.1.3 Doelstellingen
 
@@ -59,10 +59,6 @@
 * token authenticatie
 * HTTPS
 * Cloud?
-*
-*
-*
-
 ###### Leerdoelen
 
 * Zelfstudie
@@ -75,8 +71,8 @@
 
 ### 2.2 Functioneel Ontwerp Login pagina  
 
-| Open het Web Interface | > Laat de gebruiker inloggen | > Kloppen de inlog gegevens? (ja) | > Het token wordt opgehaald | > Log de gebruiker in
-|------------------------|:----------------------------:|------------------------------|--------------------------|  
+| Open het Web Interface | > Laat de gebruiker inloggen | > Kloppen de inlog gegevens? (ja) |  Het token wordt opgehaald | > Log de gebruiker in |
+|------------------------|:----------------------------:|------------------------------|--------------------------|----------------------------------|  
 |                        |                              | > (nee) Geef de gebruiker een melding |
 
 
