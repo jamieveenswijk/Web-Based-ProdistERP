@@ -92,7 +92,6 @@
  * Snel koppelen met de huidige software.
  * Compatible met elk browser en Operating System.
  * Kan "On the fly" worden geupdate zonder dat de gebruiker iets ervan merkt.
- * Deels Cloud-Based?
  * Highly secure
  * SaaS-model
  * "Skateboard" voor eind juni 2019.
