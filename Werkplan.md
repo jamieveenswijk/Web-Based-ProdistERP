@@ -2,14 +2,13 @@
 
 
 ## (1) Algemeen Informatie
- 1.2 Project Titel: <b> ProdistERP Web Interface</b>  
+ 1.2 Project Titel: <b> Prodist Web-Based ERP</b>  
   1.3 Partners:  
 
 
 | Naam                    | Email                       | Bedrijf | Telefoonnummer        | Rol             |
 | ------------------------|:---------------------------:|---------|-----------------------|-----------------|
 | Kor v/d Meulen          | k.vd.meulen@prodist.nl      | Prodist | +31 058 26 775 95     | Eigenaar        |
-| Jan v/d meulen          | j.vd.meulen@prodist.nl      | Prodist | +31 058 26 775 95     | Eigenaar        |
 | Marco van Ijs           | m.v.ijs@prodist.nl          | Prodist | +31 058 26 77 595     | Project Overseer|
 | Paul Roelvink           | p.roelvink@fcroc.nl         | CMG     | +31 6 23 94 85 57     | Coach           |
 | Jamie Veenswijk         | j.veenswijk@prodist.nl      | Prodist | +31 6 18 68 76 43     | Stagaire        |
@@ -73,7 +72,6 @@
 * Zelfstudie
 * Debuggen
 * Documenteren
-* Focus
 * Prioriteiten
 * Communicatie
 
@@ -102,3 +100,12 @@
 ##### Concept Login
 
 ![](Images/Werkplan-731f8b05.png)
+
+
+### Bronnen
+
+* [Prodist Info](http://prodisterp.nl/prodist-erp-software/over-prodist-erp/)
+* [Prodist Web ERP](http://prodisterp.nl/geen-categorie/prodisterp-wordt-volledig-webbased/)
+* [SaaS](https://nl.wikipedia.org/wiki/Software_as_a_Service)
+* [Enterprise Resource Planning (ERP)](https://nl.wikipedia.org/wiki/Enterprise_resource_planning)
+* 
