@@ -3,15 +3,6 @@
 
 ## (1) Algemeen Informatie
  1.2 Project Titel: <b> Prodist Web-Based ERP</b>  
-  1.3 Partners:  
-
-
-| Naam                    | Email                       | Bedrijf | Telefoonnummer        | Rol             |
-| ------------------------|:---------------------------:|---------|-----------------------|-----------------|
-| Kor v/d Meulen          | k.vd.meulen@prodist.nl      | Prodist | +31 058 26 775 95     | Eigenaar        |
-| Marco van Ijs           | m.v.ijs@prodist.nl          | Prodist | +31 058 26 77 595     | Project Overseer|
-| Paul Roelvink           | p.roelvink@fcroc.nl         | CMG     | +31 6 23 94 85 57     | Coach           |
-| Jamie Veenswijk         | j.veenswijk@prodist.nl      | Prodist | +31 6 18 68 76 43     | Stagaire        |
 
 
 ## (2) Project Omschrijving  
